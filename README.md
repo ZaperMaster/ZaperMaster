@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://zapermaster.github.io/web/"><img alt="Ver mi portfolio" src="https://img.shields.io/badge/Ver_mi_portfolio-%E2%86%92-00c97a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0f17"></a>
+  <a href="mailto:alejandrozap222@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-alejandrozap222%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f17"></a>
   <br>
-  <sub><a href="https://zapermaster.github.io/web/">zapermaster.github.io/web</a></sub>
+  <sub><a href="https://zapermaster.github.io/web/">zapermaster.github.io/web</a> · <a href="mailto:alejandrozap222@gmail.com">alejandrozap222@gmail.com</a></sub>
 </p>
 
 ---
