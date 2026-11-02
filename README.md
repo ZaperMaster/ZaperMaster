@@ -1,12 +1,19 @@
-<h1 align="center">Hola, soy Alejandro 👋</h1>
+<h1 align="center">Alejandro Zapata</h1>
 
 <p align="center">
-  Desarrollo <b>herramientas de ciberseguridad</b> y <b>aplicaciones de escritorio y web</b>.<br>
-  Me interesa la seguridad web, el Blue Team y construir software que se use de verdad.
+  <b>Desarrollador de software · Ciberseguridad (Blue Team)</b>
 </p>
 
 <p align="center">
-  <a href="https://zapermaster.github.io/web/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-zapermaster.github.io-00ff9c?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b0f17"></a>
+  Diseño y desarrollo productos completos, de la idea a la versión publicada: aplicaciones de escritorio,<br>
+  herramientas de auditoría de seguridad y aplicaciones web. Trabajo con la seguridad presente desde el diseño,<br>
+  pruebas automáticas y una experiencia de uso cuidada.
+</p>
+
+<p align="center">
+  <a href="https://zapermaster.github.io/web/"><img alt="Ver mi portfolio" src="https://img.shields.io/badge/Ver_mi_portfolio-%E2%86%92-00c97a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0f17"></a>
+  <br>
+  <sub><a href="https://zapermaster.github.io/web/">zapermaster.github.io/web</a></sub>
 </p>
 
 ---
@@ -67,21 +74,29 @@ JSON o CSV, en español o en inglés. Versión web y app de escritorio para Wind
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
-**Frameworks y herramientas**
+**Frameworks y plataformas**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
   <img alt="Photon PUN" src="https://img.shields.io/badge/Photon_PUN-004480?style=flat-square&logoColor=white">
+</p>
+
+**Herramientas**
+
+<p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
 </p>
 
 ## 🔐 Ciberseguridad
