@@ -1,13 +1,7 @@
 <h1 align="center">Alejandro Zapata</h1>
 
 <p align="center">
-  <b>Desarrollador de software · Ciberseguridad (Blue Team)</b>
-</p>
-
-<p align="center">
-  Diseño y desarrollo productos completos, de la idea a la versión publicada: aplicaciones de escritorio,<br>
-  herramientas de auditoría de seguridad y aplicaciones web. Trabajo con la seguridad presente desde el diseño,<br>
-  pruebas automáticas y una experiencia de uso cuidada.
+  <b>Estudiante de Ciberseguridad · Desarrollador de software</b>
 </p>
 
 <p align="center">
@@ -17,6 +11,15 @@
 </p>
 
 ---
+
+## Sobre mí
+
+- Estudiante de ciberseguridad y desarrollador de software.
+- Me interesa la ciberseguridad en todas sus áreas, en especial la **auditoría de seguridad** y el **análisis forense**.
+- Llevo mis proyectos de principio a fin, desde la idea hasta una versión publicada que cualquiera puede descargar y
+  usar, como **Lumen Office** (suite ofimática) y **WebAudit-Sec** (auditor de seguridad web).
+- Mi objetivo es trabajar en ciberseguridad y seguir creando herramientas que ayuden a proteger sistemas y datos.
+- Aprendo rápido y me adapto bien a nuevas tecnologías y retos.
 
 ## ⭐ Proyectos principales
 
