@@ -1,7 +1,7 @@
 <h1 align="center">Alejandro Zapata</h1>
 
 <p align="center">
-  <b>Estudiante de Ciberseguridad · Desarrollador de software</b>
+  <b>Desarrollador de software · Especialista en Ciberseguridad</b>
 </p>
 
 <p align="center">
@@ -15,7 +15,8 @@
 
 ## Sobre mí
 
-- Graduado en DAM y Especializado en Ciberseguridad en Entornos de las Tecnologías de la Información.
+Graduado en **DAM** y especializado en **Ciberseguridad en Entornos de las Tecnologías de la Información**.
+
 - Me interesa la ciberseguridad en todas sus áreas, en especial la **auditoría de seguridad** y el **análisis forense**.
 - Llevo mis proyectos de principio a fin, desde la idea hasta una versión publicada que cualquiera puede descargar y
   usar, como **Lumen Office** (suite ofimática) y **WebAudit-Sec** (auditor de seguridad web).
