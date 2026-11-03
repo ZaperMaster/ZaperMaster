@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-- Estudiante de ciberseguridad y desarrollador de software.
+- Graduado en DAM y Especializado en Ciberseguridad en Entornos de las Tecnologías de la Información.
 - Me interesa la ciberseguridad en todas sus áreas, en especial la **auditoría de seguridad** y el **análisis forense**.
 - Llevo mis proyectos de principio a fin, desde la idea hasta una versión publicada que cualquiera puede descargar y
   usar, como **Lumen Office** (suite ofimática) y **WebAudit-Sec** (auditor de seguridad web).
