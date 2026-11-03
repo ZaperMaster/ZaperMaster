@@ -79,12 +79,6 @@ JSON o CSV, en español o en inglés. Versión web y app de escritorio para Wind
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
-<p>
-  <img src="lenguajes.svg" alt="Porcentaje de cada lenguaje en mis repositorios públicos" width="820">
-  <br>
-  <sub>Porcentaje de código de cada lenguaje en todos mis repositorios públicos. Se actualiza solo cada día.</sub>
-</p>
-
 **Frameworks y plataformas**
 
 <p>
