@@ -1,0 +1,41 @@
+name: Lenguajes
+
+# Recalcula cada día la barra de lenguajes de todos los repositorios públicos
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/lenguajes.mjs", ".github/workflows/lenguajes.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  lenguajes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Calcular los lenguajes
+        run: node .github/scripts/lenguajes.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Guardar si ha cambiado
+        run: |
+          if git diff --quiet -- lenguajes.svg; then
+            echo "Sin cambios"
+          else
+            # Los commits van a nombre del dueño del perfil, no de un bot
+            git config user.name "ZaperMaster"
+            git config user.email "197987728+ZaperMaster@users.noreply.github.com"
+            git add lenguajes.svg
+            git commit -m "Actualizar lenguajes"
+            git push
+          fi
