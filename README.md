@@ -19,7 +19,8 @@ Graduado en **DAM** y especializado en **Ciberseguridad en Entornos de las Tecno
 
 - Me interesa la ciberseguridad en todas sus áreas, en especial la **auditoría de seguridad** y el **análisis forense**.
 - Llevo mis proyectos de principio a fin, desde la idea hasta una versión publicada que cualquiera puede descargar y
-  usar, como **Lumen Office** (suite ofimática) y **WebAudit-Sec** (auditor de seguridad web).
+  usar, como **Lumen Office** (suite ofimática), **WebAudit-Sec** (auditor de seguridad web) y **ForensiX Hash** (hashing
+  forense).
 - Mi objetivo es trabajar en ciberseguridad y seguir creando herramientas que ayuden a proteger sistemas y datos.
 - Aprendo rápido y me adapto bien a nuevas tecnologías y retos.
 
@@ -53,6 +54,20 @@ JSON o CSV, en español o en inglés. Versión web y app de escritorio para Wind
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+### 🔍 [ForensiX Hash](https://github.com/ZaperMaster/ForensiX-Hash)
+
+Herramienta forense de **código abierto**: calcula y verifica los hashes de **archivos, carpetas y discos completos**,
+crea **imágenes forenses**, lee **E01** y guarda un **informe PDF firmado** con **sello de tiempo** RFC 3161 y cadena de
+custodia. Instalador para Windows, web local y línea de comandos, con actualizaciones firmadas.
+
+<p>
+  <a href="https://zapermaster.github.io/ForensiX-Hash/"><img alt="Web" src="https://img.shields.io/badge/Web-ForensiX_Hash-2f6bff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=555555"></a>
+  <a href="https://github.com/ZaperMaster/ForensiX-Hash/releases/latest"><img alt="Descargar" src="https://img.shields.io/github/v/release/ZaperMaster/ForensiX-Hash?style=flat-square&label=descargar&color=2f6bff"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="Licencia MIT" src="https://img.shields.io/badge/licencia-MIT-green?style=flat-square">
 </p>
 
 ## 📂 Otros proyectos
